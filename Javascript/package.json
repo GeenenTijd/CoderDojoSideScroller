@@ -1,0 +1,13 @@
+{
+  "name": "CoderDojoJavaScriptGame",
+  "private": true,
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-contrib-watch": "*",
+	"load-grunt-tasks": "*"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
